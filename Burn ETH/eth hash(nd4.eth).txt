@@ -1,0 +1,32 @@
+Transaction Hash:
+Status:
+Block:
+Timestamp:
+Transaction Action:
+Sponsored:
+From:
+To:
+Ox36f899bb27aa365c30a6f559c3512c063c366dae515d43fe05ec530ed440bb5a
+Success
+17776377 91650 Block Confirmations
+12 days 19 hrs ago (Jul-26-2023 09:32:23 AM +UTC) | O Confirmed within 7 secs
+▸ Transfer 2,500 Ether To OxdEAD00...06942069
+BC.GAME
+BEST GAME
+TO WIN CRYPTO!
+Bang@3.6x
+PLAY TO WIN
+BUILD YOUR FORTUNE
+nd4.eth O
+OxdEAD000000000000000042069420694206942069 (Null: Oxdea...069)
+Value:
+Transaction Fee:
+Gas Price:
+2,500 ETH $4,580,450.00
+0.000381888883383 ETH $0.70
+18.185184923 Gwei (0.000000018185184923 ETH)
+More Details:
+→ Private Note:
++ Click to show more
+To access the Private Note feature, you must be Logged In
+A transaction is a cryptographically signed instruction that changes the blockchain state. Block explorers track the details of all transactions in the network. Learn more about transactions in our Knowledge Base.
